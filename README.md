@@ -136,7 +136,7 @@ const praveen = {
 
 | 🗂️ Project | 🛠️ Stack | ✨ Highlights |
 |:---|:---|:---|
-| [🏋️ Bachelors Fitness & Food](https://github.com/PraveenM) | HTML · CSS · JavaScript | Web app for bachelor fitness management — workout plans, diet suggestions & health tracking for a healthy lifestyle |
+| [🏋️ Bachelors Fitness & Food](https://github.com/praveeen2025/uiux) | HTML · CSS · JavaScript | Web app for bachelor fitness management — workout plans, diet suggestions & health tracking for a healthy lifestyle |
 | [✅ To-Do List Application](https://github.com/PraveenM) | HTML · CSS · JavaScript | Feature-rich task manager — add, update & delete tasks with a clean UI for better daily productivity |
 
 </div>
