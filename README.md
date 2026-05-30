@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
+<img align="right" width="280" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 
 ```javascript
 const praveen = {
