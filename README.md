@@ -1,203 +1,237 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PraveenM&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=PRAVEEN%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20CSE%20Student&descAlignY=62&descSize=16" width="100%"/>
-
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Praveen+M+%F0%9F%91%8B;Junior+Web+Developer+%7C+CSE+Student;Cybersecurity+Intern+%40+CyberWolf;Building+Secure+%26+Responsive+Web+Apps)](https://git.io/typing-svg)
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋+Hello%2C+I'm+Praveen+M;💻+Web+Developer;🛡️+Cybersecurity+Intern;🚀+Building+Secure+Applications" alt="Typing SVG" />
+<br/>
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=praveeen2025.praveeen2025&left_color=gray&right_color=00F7FF&left_text=Profile+Visitors)
+![GitHub followers](https://img.shields.io/github/followers/praveeen2025?label=GitHub%20Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/praveeen2025?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=social)
+ 
+<br/>
+<a href="https://www.linkedin.com/in/praveenmpraveen" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="https://github.com/praveeen2025" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="mailto:praveenmurugan2005@gmil.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="https://cyberwolf.pro" target="_blank">
+  <img src="https://img.shields.io/badge/CyberWolf-Internship-00F7FF?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0D1117" />
+</a>
 </div>
-
 ---
-
-## 🧑‍💻 About Me
-
-<img align="right" width="280" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
-
-```javascript
-const praveen = {
-  name        : "Praveen M",
-  location    : "Tiruvannamalai, Tamil Nadu, India 🇮🇳",
-  degree      : "B.E. Computer Science Engineering @ SKP Engineering College",
-  year        : "3rd Year (2023–2027)",
-
-  stack       : ["HTML", "CSS", "JavaScript", "Python"],
-  currently   : ["Cybersecurity", "Web Security", "Ethical Hacking"],
-
-  internship  : "Cybersecurity Intern @ CyberWolf Company (Ongoing)",
-  languages   : ["English", "Tamil"],
-
-  funFact     : "I build secure apps by day and hack (ethically) by night 🔐",
-  motto       : () => "Code it. Secure it. Ship it. 🚀"
-};
-```
-
+ 
+## 👨🏻‍💻 About Me
+ 
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
+- 🎓 **B.E. Computer Science Engineering** student at **SKP Engineering College** (2023–2027, currently in 3rd Year)
+- 💻 **Junior Web Developer** with **1 year of experience** building responsive, secure websites
+- 🛡️ **Cybersecurity Intern** at **CyberWolf Company** — gaining hands-on web security experience
+- 🔐 Skilled in **Ethical Hacking** & **Web Security**
+- 🚀 Passionate about **innovation**, **continuous learning**, and **problem-solving**
+- 🌍 Based in **Tiruvannamalai, Tamil Nadu, India**
+- 📫 Reach me at **praveenmurugan2005@gmil.com**
+- 📞 **+91 8525032410**
 <br clear="right"/>
-
 ---
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
+ 
+## 📊 Professional Statistics
+ 
+<div align="center">
+<img src="https://img.shields.io/badge/Experience-1+_Year-00F7FF?style=for-the-badge&logo=clockify&logoColor=white" />
+<img src="https://img.shields.io/badge/Projects_Built-2+-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Internship-Ongoing-4ECDC4?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/Languages-English_&_Tamil-FFE66D?style=for-the-badge&logo=googletranslate&logoColor=white" />
+</div>
+<br/>
+<div align="center">
+### 📈 Tech Stack Distribution
+ 
+```mermaid
+pie title 🧰 Technology Stack Usage
+    "Web Technologies (HTML/CSS/JS) 50%" : 50
+    "Programming - Python & JS 30%"      : 30
+    "Cybersecurity Tools 20%"            : 20
+```
+ 
+### 🎯 Focus Areas
+ 
+```mermaid
+pie title 🎯 Project Focus Areas
+    "Web Development 60%"   : 60
+    "Security Projects 25%" : 25
+    "Research & Learning 15%" : 15
+```
+ 
+</div>
+---
+ 
+## 🛠️ Technology Arsenal
+ 
+<div align="center">
 ### 🌐 Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### 🔐 Cybersecurity & Tools
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-FF0000?style=flat-square&logo=hackthebox&logoColor=white)
-![Web Security](https://img.shields.io/badge/Web%20Security-2C2C2C?style=flat-square&logo=owasp&logoColor=white)
-
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+### 💻 Programming Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+### 🔐 Cybersecurity
+<img src="https://img.shields.io/badge/Ethical_Hacking-00FF00?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Web_Security-FF6B35?style=for-the-badge&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 ### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/praveeen2025">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PraveenM&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/praveeen2025">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
-
 ---
-
-## 🔥 Streak Stats
-
+ 
+## 📊 Skill Proficiency
+ 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=praveeen2025&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+```mermaid
+graph TD
+    A[💻 Web Development] --> B[HTML5 - 85%]
+    A --> C[CSS3 - 80%]
+    A --> D[JavaScript - 78%]
+ 
+    E[🐍 Programming] --> F[Python - 75%]
+    E --> G[JS - 78%]
+ 
+    H[🔐 Cybersecurity] --> I[Ethical Hacking - 60%]
+    H --> J[Web Security - 65%]
+```
+ 
 </div>
-
 ---
-
-## 📈 Activity Graph
-
+ 
+## 🏆 Featured Projects
+ 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=praveeen2025&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏋️ Bachelors Fitness & Food</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Type-Web_App-00F7FF?style=for-the-badge" />
+        <br/><br/>
+        <p><strong>🚀 Features:</strong></p>
+        <p>
+          ✅ Workout Plans & Diet Suggestions<br/>
+          ✅ Health Tracking Dashboard<br/>
+          ✅ Clean, Responsive UI<br/>
+          ✅ Healthy Lifestyle Guidance
+        </p>
+        <p><strong>🛠️ Tech:</strong> HTML · CSS · JavaScript</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">✅ To-Do List Application</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Type-Productivity-4ECDC4?style=for-the-badge" />
+        <br/><br/>
+        <p><strong>🚀 Features:</strong></p>
+        <p>
+          ✅ Add, Update & Delete Tasks<br/>
+          ✅ Clean Minimal Interface<br/>
+          ✅ Daily Productivity Tracker<br/>
+          ✅ Fully Responsive Design
+        </p>
+        <p><strong>🛠️ Tech:</strong> HTML · CSS · JavaScript</p>
+      </div>
+    </td>
+  </tr>
+</table>
 </div>
-
 ---
-
-## 🏆 Trophy Wall
-
+ 
+## 💼 Experience
+ 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PraveenM&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+### 🔐 Internship Experience
+ 
+| Role | Company | Duration | Status |
+|------|---------|----------|--------|
+| 🛡️ **Cybersecurity Intern** | [CyberWolf Company](https://cyberwolf.pro) | Ongoing | 🟢 Active |
+| 💻 **Junior Web Developer** | Self / Freelance | 2024–2026 | 🟢 Active |
+ 
 </div>
-
+### 🔐 CyberWolf Company — Cybersecurity Intern *(Ongoing)*
+ 
+- 🌐 Currently gaining hands-on experience in **cybersecurity** and **web security**
+- 🛡️ Working on real-world security challenges and web vulnerability assessments
+- 🔗 Company: [https://cyberwolf.pro](https://cyberwolf.pro)
+### 💻 Junior Web Developer *(2024 – 2026)*
+ 
+- 🚀 Built **responsive websites** using modern web technologies
+- ⚡ Focused on **performance**, **security**, and **scalability**
+- 📦 Delivered reliable, high-quality web solutions
 ---
-
-## 💼 Work Experience
-
-<details>
-<summary>🏢 <strong>Junior Web Developer</strong> — (2024–2026)</summary>
-
-> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-- 🌐 Built and maintained responsive websites ensuring performance, security, and scalability
-- 🔧 Delivered reliable, high-quality web solutions using modern frontend technologies
-- 📱 Focused on mobile-first, cross-browser compatible designs
-- 🚀 Contributed to end-to-end development of client-facing web applications
-
-</details>
-
-<details>
-<summary>🔐 <strong>Cybersecurity Intern</strong> — CyberWolf Company · <a href="https://cyberwolf.pro">cyberwolf.pro</a> · Ongoing</summary>
-
-> ![Web Security](https://img.shields.io/badge/Web%20Security-2C2C2C?style=flat-square&logo=owasp&logoColor=white)
-> ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-FF0000?style=flat-square&logo=hackthebox&logoColor=white)
-> ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-
-- 🛡️ Gaining hands-on experience in cybersecurity and web security practices
-- 🔍 Performing vulnerability assessments and understanding real-world attack vectors
-- 🧪 Working with ethical hacking techniques to strengthen application defenses
-- 📚 Continuously deepening knowledge in the field of information security
-
-</details>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🗂️ Project | 🛠️ Stack | ✨ Highlights |
-|:---|:---|:---|
-| [🏋️ Bachelors Fitness & Food](https://github.com/praveeen2025/uiux) | HTML · CSS · JavaScript | Web app for bachelor fitness management — workout plans, diet suggestions & health tracking for a healthy lifestyle |
-| [✅ To-Do List Application](https://github.com/praveeen2025) | HTML · CSS · JavaScript | Feature-rich task manager — add, update & delete tasks with a clean UI for better daily productivity |
-
-</div>
-
----
-
-## 🏅 Achievements
-
-<div align="center">
-
-| 🎯 | Achievement | Details |
-|:---:|:---|:---|
-| 🎓 | **B.E. Computer Science Engineering** | Currently in 3rd Year at SKP Engineering College (2023–2027) |
-| 💼 | **Junior Web Developer** | 1+ year of professional experience building secure, responsive web apps |
-| 🔐 | **Cybersecurity Intern** | Ongoing internship at CyberWolf Company — web security & ethical hacking |
-| 🌐 | **Full-Stack Web Skills** | Proficient in HTML, CSS, JavaScript, and Python |
-| 🌍 | **Multilingual** | Fluent in English & Tamil |
-
-</div>
-
----
-
+ 
 ## 🎓 Education
-
+ 
 <div align="center">
-
-| 📜 Degree | 🏫 Institution | 📅 Year | 📍 Location |
-|:---|:---|:---|:---|
-| B.E. Computer Science Engineering | SKP Engineering College | 2023–2027 (3rd Year) | Tamil Nadu, India |
-
+| Degree | Institution | Year | Status |
+|--------|------------|------|--------|
+| 🎓 **B.E. Computer Science Engineering** | SKP Engineering College | 2023 – 2027 | 🟡 3rd Year |
+ 
 </div>
-
 ---
-
-## 🌱 Currently Learning
-
-```
-🔐 Cybersecurity         → Ethical Hacking, Web Security, Penetration Testing
-🛡️ Web Security          → OWASP Top 10, Vulnerability Assessment, Secure Coding
-🐍 Python                → Scripting, Automation, Security Tools
-🌐 Advanced JavaScript   → ES6+, Async/Await, DOM Manipulation
-⚙️ Linux                 → Kali Linux, Command Line, System Hardening
-```
-
----
-
-## 📬 Connect with Me
-
+ 
+## 🌐 Connect & Collaborate
+ 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveenmpraveen/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/praveeen2025)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:praveenmurugan2910@gmil.com)
-[![CyberWolf](https://img.shields.io/badge/CyberWolf%20Internship-FF0000?style=flat-square&logo=hackthebox&logoColor=white)](https://cyberwolf.pro)
-
+<a href="mailto:praveenmurugan2005@gmil.com">
+  <img src="https://img.shields.io/badge/Email-praveenmurugan2005@gmil.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<br/><br/>
+ 
+<a href="tel:+918525032410">
+  <img src="https://img.shields.io/badge/Phone-+91_8525032410-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<br/><br/>
+ 
+<a href="https://www.linkedin.com/in/praveenmpraveen" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<br/><br/>
+ 
+<a href="https://github.com/praveeen2025" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-praveeen2025-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<br/><br/>
+ 
+<a href="https://cyberwolf.pro" target="_blank">
+  <img src="https://img.shields.io/badge/Internship_Company-cyberwolf.pro-00F7FF?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0D1117" />
+</a>
+### 🌍 Location
+<img src="https://img.shields.io/badge/Tiruvannamalai-Tamil_Nadu,_India-FF9800?style=for-the-badge&logo=googlemaps&logoColor=white" />
+### 💼 Open for Opportunities
+<img src="https://img.shields.io/badge/Freelance-Available-success?style=for-the-badge&logo=upwork&logoColor=white" />
+<img src="https://img.shields.io/badge/Collaboration-Open-blue?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Internship-Seeking-yellow?style=for-the-badge&logo=briefcase&logoColor=white" />
 </div>
-
 ---
-
+ 
+## 📈 GitHub Stats
+ 
 <div align="center">
-  <i>"Code it. Secure it. Ship it. 🚀"</i>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=praveeen2025&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveeen2025&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=praveeen2025&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" />
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=praveeen2025&theme=tokyo-night&bg_color=0D1117&color=00F7FF&line=00F7FF&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+---
+ 
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer&text=Thanks+for+Visiting!&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=65"/>
+### 💡 *"Code with purpose, secure with passion, build with precision."*
+ 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Developed+with+❤️+by+Praveen+M;Web+Developer+%26+Cybersecurity+Intern;Building+Secure+%26+Scalable+Web+Solutions" alt="Footer Typing SVG" />
+</div>
+ 
