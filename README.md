@@ -10,8 +10,8 @@
 <a href="https://www.google.com/maps/search/Tiruvannamalai+Tamil+Nadu+India">
   <img src="https://img.shields.io/badge/LOCATION-TAMIL%20NADU%2C%20INDIA-FF6B6B?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Location"/>
 </a>
-<a href="https://cyberwolf.pro">
-  <img src="https://img.shields.io/badge/INTERNSHIP-CYBERWOLF%20COMPANY-00F7FF?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0D1117" alt="Internship"/>
+<a href="#-technology-arsenal--stack-distribution">
+  <img src="https://img.shields.io/badge/FIELD-CYBERSECURITY%20%26%20WEB%20DEV-00F7FF?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0D1117" alt="Field"/>
 </a>
 
 <br/><br/>
@@ -23,7 +23,7 @@
 
 <!-- DYNAMIC TYPING SVG -->
 <a href="https://github.com/praveeen2025">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hey+there!+I%27m+Praveen+M+%F0%9F%91%8B;Junior+Web+Developer+%7C+CSE+Student;Cybersecurity+Intern+%40+CyberWolf;Building+Secure%2C+Intelligent+%26+Fast+Web+Apps;Exploring+Ethical+Hacking+%26+Offensive+Security" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hey+there!+I%27m+Praveen+M+%F0%9F%91%8B;Junior+Web+Developer+%7C+CSE+Student;Cybersecurity+%26+Ethical+Hacking+Researcher;Building+Secure%2C+Intelligent+%26+Fast+Web+Apps;Exploring+Web+AppSec+%26+Offensive+Security" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -62,7 +62,7 @@
         I'm <strong>Praveen M</strong>, a driven <strong>Junior Web Developer</strong> and <strong>Cybersecurity Enthusiast</strong> pursuing my <strong>B.E. in Computer Science Engineering</strong> at <strong>SKP Engineering College</strong> (3rd Year, 2023–2027) in Tamil Nadu, India.
       </p>
       <p>
-        Currently advancing practical defensive and offensive security as a <strong>Cybersecurity Intern at CyberWolf Company</strong> (<a href="https://cyberwolf.pro">cyberwolf.pro</a>). With <strong>1+ year of frontend development experience</strong>, I combine intuitive user interface engineering with robust web application security protocols.
+        Dedicated to practical defensive and offensive security, vulnerability assessment, and modern web application security. With <strong>1+ year of frontend development experience</strong>, I combine intuitive user interface engineering with robust web application security protocols.
       </p>
       <table>
         <tr>
@@ -70,8 +70,8 @@
           <td>B.E. Computer Science & Engineering (2023–2027) @ SKP Engineering College</td>
         </tr>
         <tr>
-          <td>🛡️ <strong>Current Internship</strong></td>
-          <td>Cybersecurity Intern @ <strong><a href="https://cyberwolf.pro">CyberWolf Company</a></strong> (Ongoing)</td>
+          <td>🛡️ <strong>Focus Domain</strong></td>
+          <td>Web Application Security, OWASP Top 10 & Ethical Hacking</td>
         </tr>
         <tr>
           <td>💻 <strong>Core Experience</strong></td>
@@ -328,30 +328,30 @@ graph TD
 ---
 
 <a id="-professional-experience"></a>
-## 💼 Professional Experience & Apprenticeship
+## 💼 Professional Experience & Research
 
 <div align="center">
 
-| Role | Organization | Period | Status |
+| Role | Domain / Focus | Period | Status |
 |:---|:---|:---:|:---:|
-| 🛡️ **Cybersecurity Intern** | [CyberWolf Company](https://cyberwolf.pro) | Ongoing | 🟢 Active |
-| 💻 **Junior Web Developer** | Client & Web Solutions | 2024 – 2026 | 🟢 Active |
+| 💻 **Junior Web Developer** | Web Architecture & Responsive Apps | 2024 – 2026 | 🟢 Active |
+| 🛡️ **Cybersecurity Researcher** | Web AppSec & Ethical Hacking | 2024 – Present | 🟢 Active |
 
 </div>
 
 <br/>
-
-### 🔐 Cybersecurity Intern — CyberWolf Company *(Ongoing)*
-- 🛡️ Gaining hands-on experience in **web security**, ethical hacking, and vulnerability assessments
-- 🔍 Analyzing web applications against the **OWASP Top 10** vulnerabilities (XSS, SQLi, CSRF, broken access control)
-- 🧪 Performing practical security probing using Kali Linux tools, network recon utilities, and manual testing
-- 🔗 Company Website: [https://cyberwolf.pro](https://cyberwolf.pro)
 
 ### 💻 Junior Web Developer *(2024 – 2026)*
 - 🌐 Engineered responsive, accessible websites ensuring cross-device compatibility and performance
 - 🔧 Delivered reliable frontend solutions using modular CSS3 and clean modern JavaScript (ES6+)
 - 📱 Implemented mobile-first designs with fast loading speeds and strict client-side validation
 - 🚀 Contributed to end-to-end frontend development for practical client and web portal projects
+
+### 🛡️ Cybersecurity Research & Web AppSec *(2024 – Present)*
+- 🛡️ Conducting independent hands-on research in **web security**, ethical hacking, and vulnerability assessments
+- 🔍 Analyzing web applications against the **OWASP Top 10** vulnerabilities (XSS, SQLi, CSRF, broken access control)
+- 🧪 Performing practical security probing using Kali Linux tools, network recon utilities, and manual testing
+- 🔐 Implementing defensive hardening routines and researching counter-measures for emerging attack vectors
 
 ---
 
@@ -426,7 +426,7 @@ graph TD
 ## 🌐 Connect & Collaborate
 
 <div align="center">
-  <p><em>Looking for a passionate web developer or cybersecurity intern for innovative builds? Reach out!</em></p>
+  <p><em>Looking for a passionate web developer or cybersecurity researcher for innovative builds? Reach out!</em></p>
 
   <a href="mailto:praveenmurugan2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-praveenmurugan2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Praveen"/>
@@ -444,10 +444,6 @@ graph TD
     <img src="https://img.shields.io/badge/GitHub-praveeen2025-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
 
-  <a href="https://cyberwolf.pro" target="_blank">
-    <img src="https://img.shields.io/badge/Internship_Company-cyberwolf.pro-00F7FF?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0D1117" alt="CyberWolf Portal"/>
-  </a>
-
   <br/><br/>
 
   ### 🌍 Location
@@ -458,7 +454,7 @@ graph TD
   ### 💼 Open for Opportunities
   <img src="https://img.shields.io/badge/Freelance-Available-success?style=for-the-badge&logo=upwork&logoColor=white" alt="Freelance Available"/>
   <img src="https://img.shields.io/badge/Collaboration-Open-blue?style=for-the-badge&logo=github&logoColor=white" alt="Collaboration Open"/>
-  <img src="https://img.shields.io/badge/Internship-Active-yellow?style=for-the-badge&logo=briefcase&logoColor=white" alt="Internship Active"/>
+  <img src="https://img.shields.io/badge/Internship-Seeking%20%2F%20Open-yellow?style=for-the-badge&logo=briefcase&logoColor=white" alt="Internship Open"/>
 
 </div>
 
@@ -470,6 +466,6 @@ graph TD
 
   <h3>💡 <em>"Code with purpose, secure with passion, build with precision."</em></h3>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Developed+with+%E2%9D%A4%EF%B8%8F+by+Praveen+M;Junior+Web+Developer+%26+Cybersecurity+Intern;Building+Secure%2C+Intelligent+%26+Fast+Web+Solutions" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Developed+with+%E2%9D%A4%EF%B8%8F+by+Praveen+M;Junior+Web+Developer+%26+Cybersecurity+Researcher;Building+Secure%2C+Intelligent+%26+Fast+Web+Solutions" alt="Footer Typing SVG" />
 
 </div>
